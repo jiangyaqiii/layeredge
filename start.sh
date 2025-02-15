@@ -98,3 +98,5 @@ function deploy_layeredge_node() {
 }
 
 deploy_layeredge_node
+cd /root
+rm -f start.sh
